@@ -1,0 +1,28 @@
+table {
+  margin: 3px auto;
+}
+
+
+
+#result {
+  background-color: #000;
+  color: #FFF;
+  text-align: right;
+  font-size: 40px;
+}
+
+
+
+button {
+font-size: 30px;
+width: 100px;
+height: 100%;
+}
+
+.button_A {
+  width: 100%;
+}
+
+.button_B {
+  width: 100%;
+}
